@@ -1,0 +1,6 @@
+name: VoidHeartBoss
+version: 1.0.0
+main: com.smp.voidheartboss.VoidHeartBoss
+api-version: "1.21"
+description: Systeme de boss et portails pour VoidHeart SMP
+author: VoidHeart
